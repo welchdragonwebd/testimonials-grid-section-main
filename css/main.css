@@ -1,0 +1,87 @@
+/*  background-image: url("bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: right top;*/
+main{
+  width: 1440px;
+  height: 900px;
+  background-color: #edf2f8;
+  padding-top:40px;
+  font-size: 13px;
+}
+
+.daniel{
+  width:510px;
+  height:280px;
+  background-color: #733fc8;
+  background-image: url("bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  padding:20px 20px 20px 20px;
+  margin-left: 100px;
+  margin-right: 25px;
+}
+.daniel img{border-radius: 50%;margin:20px 20px 20px 20px;}
+.daniel h4{margin-left: 100px;margin-top: -60px;color:hsl(0, 0%, 100%);}
+.daniel span{color:hsl(0, 0%, 81%);}
+.daniel h3{margin-left: 20px;margin-top: 50px;color:hsl(0, 0%, 100%);}
+.daniel p{margin-left: 20px;font-size: 13px;color:hsl(0, 0%, 81%);}
+.jonathan{
+  height: 280px;
+  width:260px;
+  background-color: #49556b;
+  border-radius: 5px;
+  padding:20px 20px 20px 20px;
+  margin-left: 700px;
+  margin-right: 0px;
+  margin-top: -320px;
+}
+.jonathan img{border-radius: 50%;margin:20px 20px 20px 20px;}
+.jonathan h4{margin-left: 100px;margin-top: -60px;color:hsl(0, 0%, 100%);}
+.jonathan span{color:hsl(0, 0%, 81%);}
+.jonathan h3{margin-left: 20px;margin-top: 50px;color:hsl(0, 0%, 100%)}
+.jonathan p{margin-left: 20px;font-size: 13px;color:hsl(0, 0%, 81%);}
+.kira{
+  background-color: #ffffff;
+  width:260px;
+  height:560px;
+  padding:20px 20px 20px 20px;
+  margin-right:100px;
+  margin-left: 25px;
+  border-radius: 5px;
+  margin-top: -320px;
+  margin-bottom: 20px;
+  float: right;
+}
+.kira img{border-radius: 50%;margin:20px 20px 20px 20px;color:hsl(217, 19%, 35%);}
+.kira h4{margin-left: 100px;margin-top: -60px;}
+.kira h3{margin-left: 20px;margin-top: 50px;color:hsl(217, 19%, 35%);}
+.kira p{margin-left: 20px;font-size: 13px;color:hsl(217, 19%, 35%);}
+
+.jeannette{
+  width:259px;
+  height:220px;
+  border-radius: 5px;
+  padding:20px 20px 20px 20px;
+  background-color: #ffffff;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.jeannette img{border-radius: 50%;margin:20px 20px 20px 20px;}
+.jeannette h4{margin-left: 100px;margin-top: -60px;color:hsl(219, 29%, 14%);}
+.jeanette span{color:hsl(0, 0%, 81%);}
+.jeannette h3{margin-left: 20px;margin-top: 50px;color:hsl(219, 29%, 14%);}
+.jeannette p{margin-left: 20px;font-size: 13px;color:hsl(217, 19%, 35%);}
+.patrick{
+  width:540px;
+  height:220px;
+  background-color: #18202d;
+  margin-left: 420px;
+  margin-top: -260px;
+  padding:20px 20px 20px 20px;
+  border-radius: 5px;
+}
+.patrick img{border-radius: 50%;margin:20px 20px 20px 20px;}
+.patrick h4{margin-left: 100px;margin-top: -60px;color:hsl(0, 0%, 100%);}
+.patrick span{color:hsl(0, 0%, 81%);}
+.patrick h3{margin-left: 20px;margin-top: 50px;color:hsl(0, 0%, 100%);}
+.patrick p{margin-left: 20px;font-size: 13px;color:hsl(0, 0%, 81%);}
